@@ -1,0 +1,14 @@
+[2023-02-01T22:56:15.323] [INFO] default - wait [href*='afisha/new/city'][class*='link'] selector
+[2023-02-01T22:56:15.742] [INFO] default - wait [href*='afisha/new/city'][class*='link'] successful
+[2023-02-01T22:56:15.742] [INFO] default - wait for clickable [href*='afisha/new/city'][c[2023-02-01T22:56:16.639[2023-02-01T22:56:16.824] [INFO] default - wait //*[contains(@class,"film-page")]//*[contains(@href,"hd.kinopoisk.ru")] selector
+[2023-02-01T22:56:17.607] [INFO] default - wait //*[contains(@class,"film-page")]//*[contains(@href,"hd.kinopoisk.ru")] successful
+[2023-02-01T22:56:17.608] [INFO] default - wait for clickable //*[contains(@class,"film-page")]//*[contains(@href,"hd.kinopoisk.ru")] selector
+type='button'] selector
+[2023-02-01T22:56:16.738] [INFO] default - wait [class*='burger'][type='button'] successful
+[2023-02-01T22:56:16.738] [INFO] default - wait for clickable [class*='burger'][type='button'] selector
+[2023-02-01T22:56:17.652] [INFO] default - wait [class*='burger'][type='button'] selector
+[2023-02-01T22:56:17.658] [INFO] default - wait [class*="dropdownMenu"] [href*="/lists/categories/movies/"] selector
+[2023-02-01T22:56:17.769] [INFO] default - wait [class*='burger'][type='button'] successful
+[2023-02-01T22:56:17.769] [INFO] default - wait for clickable [class*='burger'][type='button'] selector
+[2023-02-01T22:56:17.818] [INFO] default - wait [class*="dropdownMenu"] [href*="/lists/categories/movies/"] successful
+[2023-02-01T22:56:17.818] [INFO] default - wait for clickable [class*="dropdownMenu"] [href*="/lists/categories/movies/"] selector

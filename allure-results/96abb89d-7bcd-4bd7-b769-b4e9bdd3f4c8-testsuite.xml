@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1675281372905' stop='1675281376830'>
+    <name>Check Kinopoisk links</name>
+    <title>Check Kinopoisk links</title>
+    <test-cases>
+        <test-case start='1675281372925' status='passed' stop='1675281375332'>
+            <name>As a user, I can open afisha link from main page</name>
+            <title>As a user, I can open afisha link from main page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='feature' value='Check Kinopoisk links'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.120'/>
+            </parameters>
+            <steps>
+                <step start='1675281372930' status='passed' stop='1675281375317'>
+                    <name>Given I am on the Main page</name>
+                    <title>Given I am on the Main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1675281375317' status='passed' stop='1675281375322'>
+                    <name>Then Element afishaLink appears on Main page</name>
+                    <title>Then Element afishaLink appears on Main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1675281375322' status='passed' stop='1675281375328'>
+                    <name>When I click afishaLink on Main page</name>
+                    <title>When I click afishaLink on Main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1675281375328' status='passed' stop='1675281375330'>
+                    <name>Then Element myAfishaTab appears on Afisha page</name>
+                    <title>Then Element myAfishaTab appears on Afisha page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1675281375332' status='passed' stop='1675281376830'>
+            <name>As a user, I can open afisha link from main page</name>
+            <title>As a user, I can open afisha link from main page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='feature' value='Check Kinopoisk links'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.120'/>
+            </parameters>
+            <steps>
+                <step start='1675281375333' status='passed' stop='1675281376817'>
+                    <name>Given I am on the Main page</name>
+                    <title>Given I am on the Main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1675281376817' status='passed' stop='1675281376821'>
+                    <name>When I scroll to hdBlock element on Main page</name>
+                    <title>When I scroll to hdBlock element on Main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1675281376821' status='passed' stop='1675281376824'>
+                    <name>Then Element filmsLink appears on Main page</name>
+                    <title>Then Element filmsLink appears on Main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1675281376824' status='passed' stop='1675281376826'>
+                    <name>When I click filmsLink on Main page</name>
+                    <title>When I click filmsLink on Main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1675281376826' status='passed' stop='1675281376829'>
+                    <name>Then Element promoTitle appears on Films page</name>
+                    <title>Then Element promoTitle appears on Films page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
